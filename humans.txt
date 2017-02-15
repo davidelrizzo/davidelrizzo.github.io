@@ -1,0 +1,17 @@
+/* the humans responsible */
+
+/* humanstxt.org */
+
+
+Davide L Rizzo
+Site: 
+ 	   www.davidelrizzo.com
+Twitter: 
+  twitter.com/davidelrizzo
+Location:  Melbourne Australia 
+
+
+/* SITE */
+  
+Standards: HTML5, CSS3
+  
